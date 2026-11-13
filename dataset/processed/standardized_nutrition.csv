@@ -1,0 +1,503 @@
+restaurant,item,category,serving_size,calories,fat_g,carbs_g,protein_g,sodium_mg,sugars_g
+McDonald's,Coffee (Large),Coffee & Tea,16 fl oz cup,0.0,0.0,0.0,0.0,0.0,0.0
+McDonald's,Coffee (Medium),Coffee & Tea,16 fl oz cup,0.0,0.0,0.0,0.0,0.0,0.0
+McDonald's,Coffee (Small),Coffee & Tea,12 fl oz cup,0.0,0.0,0.0,0.0,0.0,0.0
+McDonald's,Dasani Water Bottle,Beverages,16.9 fl oz,0.0,0.0,0.0,0.0,0.0,0.0
+McDonald's,Diet Coke (Child),Beverages,12 fl oz cup,0.0,0.0,0.0,0.0,15.0,0.0
+McDonald's,Diet Coke (Large),Beverages,30 fl oz cup,0.0,0.0,0.0,0.0,35.0,0.0
+McDonald's,Diet Coke (Medium),Beverages,21 fl oz cup,0.0,0.0,0.0,0.0,20.0,0.0
+McDonald's,Diet Coke (Small),Beverages,16 fl oz cup,0.0,0.0,0.0,0.0,10.0,0.0
+McDonald's,Diet Dr Pepper (Child),Beverages,12 fl oz cup,0.0,0.0,0.0,1.0,50.0,0.0
+McDonald's,Diet Dr Pepper (Large),Beverages,30 fl oz cup,0.0,0.0,0.0,4.0,140.0,0.0
+McDonald's,Diet Dr Pepper (Medium),Beverages,21 fl oz cup,0.0,0.0,0.0,3.0,100.0,0.0
+McDonald's,Diet Dr Pepper (Small),Beverages,16 fl oz cup,0.0,0.0,0.0,2.0,70.0,0.0
+McDonald's,Iced Tea (Child),Coffee & Tea,12 fl oz cup,0.0,0.0,0.0,0.0,5.0,0.0
+McDonald's,Iced Tea (Large),Coffee & Tea,30 fl oz cup,0.0,0.0,0.0,0.0,15.0,0.0
+McDonald's,Iced Tea (Medium),Coffee & Tea,21 fl oz cup,0.0,0.0,0.0,0.0,10.0,0.0
+McDonald's,Iced Tea (Small),Coffee & Tea,16 fl oz cup,0.0,0.0,0.0,0.0,10.0,0.0
+McDonald's,Apple Slices,Snacks & Sides,1.2 oz (34 g),15.0,0.0,4.0,0.0,0.0,3.0
+McDonald's,Side Salad,Snacks & Sides,3.1 oz (87 g),20.0,0.0,4.0,1.0,10.0,2.0
+McDonald's,Kids Ice Cream Cone,Desserts,1 oz (29 g),45.0,1.5,7.0,1.0,20.0,6.0
+McDonald's,Iced Coffee with Sugar Free French Vanilla Syrup (Small),Coffee & Tea,16 fl oz cup,80.0,4.5,9.0,1.0,65.0,1.0
+McDonald's,Minute Maid 100% Apple Juice Box,Beverages,6 fl oz (177 ml),80.0,0.0,21.0,0.0,15.0,19.0
+McDonald's,1% Low Fat Milk Jug,Beverages,1 carton (236 ml),100.0,2.5,12.0,8.0,125.0,12.0
+McDonald's,Coca-Cola Classic (Child),Beverages,12 fl oz cup,100.0,0.0,28.0,0.0,0.0,28.0
+McDonald's,Dr Pepper (Child),Beverages,12 fl oz cup,100.0,0.0,27.0,0.0,30.0,26.0
+McDonald's,Nonfat Latte (Small),Coffee & Tea,12 fl oz cup,100.0,0.0,15.0,10.0,110.0,13.0
+McDonald's,Sprite (Child),Beverages,12 fl oz cup,100.0,0.0,27.0,0.0,25.0,27.0
+McDonald's,Kids French Fries,Snacks & Sides,1.3 oz (38 g),110.0,5.0,15.0,1.0,65.0,0.0
+McDonald's,Sweet Tea (Child),Coffee & Tea,12 fl oz cup,110.0,0.0,27.0,0.0,5.0,27.0
+McDonald's,French Vanilla Iced Coffee (Small),Coffee & Tea,16 fl oz cup,120.0,4.5,20.0,1.0,40.0,19.0
+McDonald's,Iced Coffee with Sugar Free French Vanilla Syrup (Medium),Coffee & Tea,22 fl oz cup,120.0,7.0,12.0,1.0,90.0,2.0
+McDonald's,Caramel Iced Coffee (Small),Coffee & Tea,16 fl oz cup,130.0,4.5,22.0,1.0,35.0,21.0
+McDonald's,Fat Free Chocolate Milk Jug,Beverages,1 carton (236 ml),130.0,0.0,23.0,9.0,135.0,22.0
+McDonald's,Hazelnut Iced Coffee (Small),Coffee & Tea,16 fl oz cup,130.0,4.5,21.0,1.0,35.0,20.0
+McDonald's,Nonfat Latte (Medium),Coffee & Tea,16 fl oz cup,130.0,0.0,19.0,12.0,135.0,16.0
+McDonald's,Coca-Cola Classic (Small),Beverages,16 fl oz cup,140.0,0.0,39.0,0.0,0.0,39.0
+McDonald's,Dr Pepper (Small),Beverages,16 fl oz cup,140.0,0.0,37.0,0.0,45.0,35.0
+McDonald's,Nonfat Latte with Sugar Free French Vanilla Syrup (Small),Coffee & Tea,12 fl oz cup,140.0,0.0,24.0,10.0,150.0,13.0
+McDonald's,Premium Bacon Ranch Salad (without Chicken),Salads,7.9 oz (223 g),140.0,7.0,10.0,9.0,300.0,4.0
+McDonald's,Premium Southwest Salad (without Chicken),Salads,8.1 oz (230 g),140.0,4.5,20.0,6.0,150.0,6.0
+McDonald's,Regular Iced Coffee (Small),Coffee & Tea,16 fl oz cup,140.0,4.5,23.0,1.0,35.0,22.0
+McDonald's,Sprite (Small),Beverages,16 fl oz cup,140.0,0.0,37.0,0.0,30.0,37.0
+McDonald's,Fruit 'n Yogurt Parfait,Snacks & Sides,5.2 oz (149 g),150.0,2.0,30.0,4.0,70.0,23.0
+McDonald's,Hash Brown,Breakfast,2 oz (56 g),150.0,9.0,15.0,1.0,310.0,0.0
+McDonald's,Minute Maid Orange Juice (Small),Beverages,12 fl oz cup,150.0,0.0,34.0,2.0,0.0,30.0
+McDonald's,Oatmeal Raisin Cookie,Desserts,1 cookie (33 g),150.0,6.0,22.0,2.0,135.0,13.0
+McDonald's,Sweet Tea (Small),Coffee & Tea,16 fl oz cup,150.0,0.0,36.0,1.0,10.0,36.0
+McDonald's,Chocolate Chip Cookie,Desserts,1 cookie (33 g),160.0,8.0,21.0,2.0,90.0,15.0
+McDonald's,Iced Coffee with Sugar Free French Vanilla Syrup (Large),Coffee & Tea,32 fl oz cup,160.0,9.0,18.0,2.0,135.0,2.0
+McDonald's,French Vanilla Iced Coffee (Medium),Coffee & Tea,22 fl oz cup,170.0,7.0,27.0,1.0,55.0,26.0
+McDonald's,Latte (Small),Coffee & Tea,12 fl oz cup,170.0,9.0,15.0,9.0,115.0,12.0
+McDonald's,Nonfat Latte (Large),Coffee & Tea,20 fl oz cup,170.0,0.5,25.0,16.0,180.0,21.0
+McDonald's,Nonfat Latte with Sugar Free French Vanilla Syrup (Medium),Coffee & Tea,16 fl oz cup,170.0,0.0,30.0,12.0,180.0,16.0
+McDonald's,Caramel Iced Coffee (Medium),Coffee & Tea,22 fl oz cup,180.0,7.0,29.0,1.0,50.0,28.0
+McDonald's,Hazelnut Iced Coffee (Medium),Coffee & Tea,22 fl oz cup,180.0,7.0,29.0,1.0,50.0,28.0
+McDonald's,Sweet Tea (Medium),Coffee & Tea,21 fl oz cup,180.0,0.0,45.0,1.0,10.0,45.0
+McDonald's,Chicken McNuggets (4 piece),Chicken & Fish,2.3 oz (65 g),190.0,12.0,12.0,9.0,360.0,0.0
+McDonald's,Dr Pepper (Medium),Beverages,21 fl oz cup,190.0,0.0,53.0,0.0,65.0,51.0
+McDonald's,Minute Maid Orange Juice (Medium),Beverages,16 fl oz cup,190.0,0.0,44.0,3.0,0.0,39.0
+McDonald's,Nonfat French Vanilla Latte (Small),Coffee & Tea,12 fl oz cup,190.0,0.0,39.0,10.0,115.0,37.0
+McDonald's,Regular Iced Coffee (Medium),Coffee & Tea,22 fl oz cup,190.0,7.0,31.0,1.0,50.0,30.0
+McDonald's,Coca-Cola Classic (Medium),Beverages,21 fl oz cup,200.0,0.0,55.0,0.0,5.0,55.0
+McDonald's,Nonfat Caramel Latte (Small),Coffee & Tea,12 fl oz cup,200.0,0.0,41.0,10.0,110.0,39.0
+McDonald's,Nonfat Hazelnut Latte (Small),Coffee & Tea,12 fl oz cup,200.0,0.0,40.0,10.0,110.0,38.0
+McDonald's,Sprite (Medium),Beverages,21 fl oz cup,200.0,0.0,54.0,0.0,45.0,54.0
+McDonald's,Latte (Medium),Coffee & Tea,16 fl oz cup,210.0,10.0,18.0,11.0,140.0,15.0
+McDonald's,Latte with Sugar Free French Vanilla Syrup (Small),Coffee & Tea,12 fl oz cup,210.0,9.0,24.0,9.0,150.0,12.0
+McDonald's,Mango Pineapple Smoothie (Small),Smoothies & Shakes,12 fl oz cup,210.0,0.5,50.0,2.0,40.0,46.0
+McDonald's,Strawberry Banana Smoothie (Small),Smoothies & Shakes,12 fl oz cup,210.0,0.5,47.0,3.0,50.0,44.0
+McDonald's,Blueberry Pomegranate Smoothie (Small),Smoothies & Shakes,12 fl oz cup,220.0,0.5,50.0,2.0,40.0,44.0
+McDonald's,Nonfat Latte with Sugar Free French Vanilla Syrup (Large),Coffee & Tea,20 fl oz cup,220.0,0.5,38.0,16.0,240.0,21.0
+McDonald's,Premium Bacon Ranch Salad with Grilled Chicken,Salads,8.5 oz (241 g),220.0,8.0,8.0,29.0,690.0,4.0
+McDonald's,Sweet Tea (Large),Coffee & Tea,30 fl oz cup,220.0,0.0,54.0,1.0,10.0,54.0
+McDonald's,Iced Nonfat Caramel Mocha (Small),Coffee & Tea,12 fl oz cup,230.0,5.0,38.0,8.0,140.0,33.0
+McDonald's,Small French Fries,Snacks & Sides,2.6 oz (75 g),230.0,11.0,30.0,2.0,130.0,0.0
+McDonald's,French Vanilla Iced Coffee (Large),Coffee & Tea,32 fl oz cup,240.0,9.0,41.0,2.0,80.0,39.0
+McDonald's,Hamburger,Beef & Pork,3.5 oz (98 g),240.0,8.0,32.0,12.0,480.0,6.0
+McDonald's,Iced Mocha with Nonfat Milk (Small),Coffee & Tea,12 fl oz cup,240.0,5.0,41.0,8.0,125.0,35.0
+McDonald's,Nonfat French Vanilla Latte (Medium),Coffee & Tea,16 fl oz cup,240.0,0.0,49.0,12.0,140.0,46.0
+McDonald's,Baked Apple Pie,Desserts,2.7 oz (77 g),250.0,13.0,32.0,2.0,170.0,13.0
+McDonald's,Egg White Delight,Breakfast,4.8 oz (135 g),250.0,8.0,30.0,18.0,770.0,3.0
+McDonald's,Hazelnut Iced Coffee (Large),Coffee & Tea,32 fl oz cup,250.0,9.0,43.0,2.0,75.0,41.0
+McDonald's,Honey Mustard Snack Wrap (Grilled Chicken),Snacks & Sides,4.1 oz (116 g),250.0,8.0,27.0,16.0,650.0,2.0
+McDonald's,Nonfat Caramel Latte (Medium),Coffee & Tea,16 fl oz cup,250.0,0.0,51.0,12.0,135.0,48.0
+McDonald's,Nonfat Caramel Mocha (Small),Coffee & Tea,12 fl oz cup,250.0,3.5,45.0,10.0,170.0,41.0
+McDonald's,Nonfat Hazelnut Latte (Medium),Coffee & Tea,16 fl oz cup,250.0,0.0,51.0,12.0,135.0,48.0
+McDonald's,Strawberry Banana Smoothie (Medium),Smoothies & Shakes,16 fl oz cup,250.0,1.0,58.0,4.0,60.0,54.0
+McDonald's,Blueberry Pomegranate Smoothie (Medium),Smoothies & Shakes,16 fl oz cup,260.0,1.0,62.0,3.0,50.0,54.0
+McDonald's,Caramel Iced Coffee (Large),Coffee & Tea,32 fl oz cup,260.0,9.0,43.0,2.0,65.0,42.0
+McDonald's,Chipotle BBQ Snack Wrap (Grilled Chicken),Snacks & Sides,4.3 oz (123 g),260.0,8.0,30.0,16.0,700.0,7.0
+McDonald's,French Vanilla Latte (Small),Coffee & Tea,12 fl oz cup,260.0,9.0,38.0,9.0,115.0,36.0
+McDonald's,Fruit & Maple Oatmeal without Brown Sugar,Breakfast,9.6 oz (251 g),260.0,4.0,49.0,5.0,115.0,18.0
+McDonald's,Latte with Sugar Free French Vanilla Syrup (Medium),Coffee & Tea,16 fl oz cup,260.0,10.0,29.0,12.0,190.0,15.0
+McDonald's,Mango Pineapple Smoothie (Medium),Smoothies & Shakes,16 fl oz cup,260.0,1.0,61.0,3.0,45.0,56.0
+McDonald's,Caramel Latte (Small),Coffee & Tea,12 fl oz cup,270.0,9.0,40.0,9.0,115.0,38.0
+McDonald's,Dr Pepper (Large),Beverages,30 fl oz cup,270.0,0.0,72.0,0.0,90.0,70.0
+McDonald's,Hazelnut Latte (Small),Coffee & Tea,12 fl oz cup,270.0,9.0,40.0,9.0,115.0,38.0
+McDonald's,Iced Nonfat Caramel Mocha (Medium),Coffee & Tea,16 fl oz cup,270.0,5.0,47.0,10.0,170.0,41.0
+McDonald's,Mocha with Nonfat Milk (Small),Coffee & Tea,12 fl oz cup,270.0,3.5,49.0,11.0,150.0,43.0
+McDonald's,Regular Iced Coffee (Large),Coffee & Tea,32 fl oz cup,270.0,9.0,47.0,2.0,75.0,45.0
+McDonald's,Chicken McNuggets (6 piece),Chicken & Fish,3.4 oz (97 g),280.0,18.0,18.0,13.0,540.0,0.0
+McDonald's,Coca-Cola Classic (Large),Beverages,30 fl oz cup,280.0,0.0,76.0,0.0,5.0,76.0
+McDonald's,Hot Chocolate with Nonfat Milk (Small),Coffee & Tea,12 fl oz cup,280.0,3.5,50.0,12.0,180.0,46.0
+McDonald's,Iced Caramel Mocha (Small),Coffee & Tea,12 fl oz cup,280.0,11.0,38.0,8.0,140.0,33.0
+McDonald's,Latte (Large),Coffee & Tea,20 fl oz cup,280.0,14.0,24.0,15.0,180.0,20.0
+McDonald's,Minute Maid Orange Juice (Large),Beverages,22 fl oz cup,280.0,0.0,65.0,4.0,5.0,58.0
+McDonald's,Ranch Snack Wrap (Grilled Chicken),Snacks & Sides,4.3 oz (121 g),280.0,13.0,25.0,16.0,720.0,2.0
+McDonald's,Sprite (Large),Beverages,30 fl oz cup,280.0,0.0,74.0,0.0,60.0,74.0
+McDonald's,Strawberry Sundae,Desserts,6.3 oz (178 g),280.0,6.0,49.0,6.0,85.0,45.0
+McDonald's,Cheeseburger,Beef & Pork,4 oz (113 g),290.0,11.0,33.0,15.0,680.0,7.0
+McDonald's,Fruit & Maple Oatmeal,Breakfast,9.6 oz (251 g),290.0,4.0,58.0,5.0,160.0,32.0
+McDonald's,Iced Mocha (Small),Coffee & Tea,12 fl oz cup,290.0,11.0,41.0,8.0,125.0,34.0
+McDonald's,Iced Mocha with Nonfat Milk (Medium),Coffee & Tea,16 fl oz cup,290.0,5.0,50.0,10.0,150.0,43.0
+McDonald's,Premium Southwest Salad with Grilled Chicken,Salads,11.8 oz (335 g),290.0,8.0,28.0,27.0,680.0,10.0
+McDonald's,Egg McMuffin,Breakfast,4.8 oz (136 g),300.0,13.0,31.0,17.0,750.0,3.0
+McDonald's,Nonfat French Vanilla Latte (Large),Coffee & Tea,20 fl oz cup,300.0,0.5,60.0,16.0,180.0,56.0
+McDonald's,Sausage Burrito,Breakfast,3.9 oz (111 g),300.0,16.0,26.0,12.0,790.0,2.0
+McDonald's,Nonfat Caramel Latte (Large),Coffee & Tea,20 fl oz cup,310.0,0.5,63.0,16.0,180.0,59.0
+McDonald's,Nonfat Caramel Mocha (Medium),Coffee & Tea,16 fl oz cup,310.0,3.5,56.0,13.0,210.0,51.0
+McDonald's,Nonfat Hazelnut Latte (Large),Coffee & Tea,20 fl oz cup,310.0,0.5,63.0,16.0,180.0,59.0
+McDonald's,Caramel Mocha (Small),Coffee & Tea,12 fl oz cup,320.0,11.0,45.0,10.0,170.0,40.0
+McDonald's,French Vanilla Latte (Medium),Coffee & Tea,16 fl oz cup,330.0,10.0,48.0,11.0,140.0,45.0
+McDonald's,Hazelnut Latte (Medium),Coffee & Tea,16 fl oz cup,330.0,10.0,50.0,11.0,140.0,47.0
+McDonald's,Honey Mustard Snack Wrap (Crispy Chicken),Snacks & Sides,4.3 oz (123 g),330.0,15.0,34.0,14.0,730.0,3.0
+McDonald's,Hot Fudge Sundae,Desserts,6.3 oz (179 g),330.0,9.0,53.0,8.0,170.0,48.0
+McDonald's,Latte with Sugar Free French Vanilla Syrup (Large),Coffee & Tea,20 fl oz cup,330.0,14.0,37.0,15.0,240.0,20.0
+McDonald's,Mocha with Nonfat Milk (Medium),Coffee & Tea,16 fl oz cup,330.0,3.5,60.0,13.0,190.0,53.0
+McDonald's,Strawberry Banana Smoothie (Large),Smoothies & Shakes,22 fl oz cup,330.0,1.0,74.0,5.0,80.0,70.0
+McDonald's,Blueberry Pomegranate Smoothie (Large),Smoothies & Shakes,22 fl oz cup,340.0,1.0,79.0,4.0,65.0,70.0
+McDonald's,Caramel Latte (Medium),Coffee & Tea,16 fl oz cup,340.0,10.0,50.0,11.0,140.0,48.0
+McDonald's,Chipotle BBQ Snack Wrap (Crispy Chicken),Snacks & Sides,4.6 oz (130 g),340.0,15.0,37.0,14.0,780.0,8.0
+McDonald's,Hot Caramel Sundae,Desserts,6.4 oz (182 g),340.0,8.0,60.0,7.0,150.0,43.0
+McDonald's,Hot Chocolate with Nonfat Milk (Medium),Coffee & Tea,16 fl oz cup,340.0,3.5,61.0,14.0,220.0,57.0
+McDonald's,Iced Caramel Mocha (Medium),Coffee & Tea,16 fl oz cup,340.0,13.0,46.0,9.0,170.0,41.0
+McDonald's,Mango Pineapple Smoothie (Large),Smoothies & Shakes,22 fl oz cup,340.0,1.0,78.0,4.0,60.0,72.0
+McDonald's,McFlurry with Oreo Cookies (Snack),Smoothies & Shakes,6.7 oz (190 g),340.0,11.0,53.0,8.0,190.0,43.0
+McDonald's,Medium French Fries,Snacks & Sides,3.9 oz (111 g),340.0,16.0,44.0,4.0,190.0,0.0
+McDonald's,Mocha (Small),Coffee & Tea,12 fl oz cup,340.0,11.0,49.0,10.0,150.0,42.0
+McDonald's,Hotcakes,Breakfast,5.3 oz (151 g),350.0,9.0,60.0,8.0,590.0,14.0
+McDonald's,Iced Mocha (Medium),Coffee & Tea,16 fl oz cup,350.0,13.0,50.0,9.0,150.0,43.0
+McDonald's,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,7 oz (200 g),350.0,9.0,42.0,28.0,820.0,8.0
+McDonald's,Buffalo Ranch McChicken,Chicken & Fish,5.2 oz (148 g),360.0,16.0,40.0,14.0,990.0,5.0
+McDonald's,Hot Chocolate (Small),Coffee & Tea,12 fl oz cup,360.0,13.0,50.0,11.0,180.0,45.0
+McDonald's,McChicken,Chicken & Fish,5.1 oz (143 g),360.0,16.0,40.0,14.0,800.0,5.0
+McDonald's,Ranch Snack Wrap (Crispy Chicken),Snacks & Sides,4.5 oz (128 g),360.0,20.0,32.0,15.0,810.0,3.0
+McDonald's,Iced Nonfat Caramel Mocha (Large),Coffee & Tea,22 fl oz cup,370.0,6.0,65.0,14.0,250.0,59.0
+McDonald's,Nonfat Caramel Mocha (Large),Coffee & Tea,20 fl oz cup,370.0,3.5,67.0,17.0,270.0,61.0
+McDonald's,Sausage McMuffin,Breakfast,3.9 oz (111 g),370.0,23.0,29.0,14.0,780.0,2.0
+McDonald's,McDouble,Beef & Pork,5.2 oz (147 g),380.0,17.0,34.0,22.0,840.0,7.0
+McDonald's,Premium Bacon Ranch Salad with Crispy Chicken,Salads,9 oz (255 g),380.0,21.0,22.0,25.0,860.0,5.0
+McDonald's,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,10.3 oz (291 g),380.0,10.0,47.0,27.0,1090.0,12.0
+McDonald's,Caramel Mocha (Medium),Coffee & Tea,16 fl oz cup,390.0,14.0,55.0,12.0,220.0,50.0
+McDonald's,Filet-O-Fish,Chicken & Fish,5 oz (142 g),390.0,19.0,39.0,15.0,590.0,5.0
+McDonald's,Iced Mocha with Nonfat Milk (Large),Coffee & Tea,22 fl oz cup,390.0,6.0,71.0,14.0,220.0,62.0
+McDonald's,Mocha with Nonfat Milk (Large),Coffee & Tea,20 fl oz cup,390.0,4.0,73.0,17.0,240.0,64.0
+McDonald's,"Bacon, Egg & Cheese McGriddles with Egg Whites",Breakfast,6.3 oz (178 g),400.0,15.0,47.0,20.0,1250.0,16.0
+McDonald's,Hot Chocolate with Nonfat Milk (Large),Coffee & Tea,20 fl oz cup,400.0,3.5,74.0,19.0,280.0,69.0
+McDonald's,Sausage McMuffin with Egg Whites,Breakfast,5.7 oz (161 g),400.0,23.0,30.0,21.0,880.0,2.0
+McDonald's,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",Breakfast,5.4 oz (153 g),410.0,20.0,36.0,20.0,1300.0,3.0
+McDonald's,McFlurry with Reese's Peanut Butter Cups (Snack),Smoothies & Shakes,7.1 oz (202 g),410.0,16.0,57.0,10.0,200.0,51.0
+McDonald's,Mocha (Medium),Coffee & Tea,16 fl oz cup,410.0,14.0,60.0,13.0,190.0,53.0
+McDonald's,Southern Style Chicken Biscuit (Regular Biscuit),Breakfast,5 oz (143 g),410.0,20.0,41.0,17.0,1180.0,3.0
+McDonald's,French Vanilla Latte (Large),Coffee & Tea,20 fl oz cup,420.0,14.0,60.0,15.0,190.0,56.0
+McDonald's,Sausage McGriddles,Breakfast,5 oz (141 g),420.0,22.0,44.0,11.0,1030.0,15.0
+McDonald's,Bacon Buffalo Ranch McChicken,Chicken & Fish,5.7 oz (161 g),430.0,21.0,41.0,20.0,1260.0,6.0
+McDonald's,Caramel Latte (Large),Coffee & Tea,20 fl oz cup,430.0,14.0,62.0,15.0,180.0,59.0
+McDonald's,Daily Double,Beef & Pork,6.7 oz (190 g),430.0,22.0,34.0,22.0,760.0,7.0
+McDonald's,Double Cheeseburger,Beef & Pork,5.7 oz (161 g),430.0,21.0,35.0,24.0,1040.0,7.0
+McDonald's,Hazelnut Latte (Large),Coffee & Tea,20 fl oz cup,430.0,14.0,62.0,15.0,180.0,58.0
+McDonald's,Jalapeño Double,Beef & Pork,5.6 oz (159 g),430.0,23.0,35.0,22.0,1030.0,6.0
+McDonald's,McFlurry with M&M’s Candies (Snack),Smoothies & Shakes,7.3 oz (207 g),430.0,15.0,64.0,9.0,120.0,59.0
+McDonald's,Sausage Biscuit (Regular Biscuit),Breakfast,4.1 oz (117 g),430.0,27.0,34.0,11.0,1080.0,2.0
+McDonald's,Southern Style Crispy Chicken Sandwich,Chicken & Fish,5.6 oz (160 g),430.0,19.0,43.0,21.0,910.0,7.0
+McDonald's,Steak & Egg McMuffin,Breakfast,6.5 oz (185 g),430.0,23.0,31.0,26.0,960.0,3.0
+McDonald's,Bacon McDouble,Beef & Pork,5.7 oz (161 g),440.0,22.0,35.0,27.0,1110.0,7.0
+McDonald's,Hot Chocolate (Medium),Coffee & Tea,16 fl oz cup,440.0,16.0,61.0,14.0,220.0,56.0
+McDonald's,Frappé Caramel (Small),Coffee & Tea,12 fl oz cup,450.0,19.0,64.0,7.0,125.0,57.0
+McDonald's,Frappé Mocha (Small),Coffee & Tea,12 fl oz cup,450.0,18.0,65.0,7.0,125.0,57.0
+McDonald's,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,7.6 oz (217 g),450.0,15.0,43.0,36.0,1230.0,9.0
+McDonald's,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,10.5 oz (297 g),450.0,18.0,42.0,30.0,1170.0,6.0
+McDonald's,Premium Southwest Salad with Crispy Chicken,Salads,12.3 oz (348 g),450.0,22.0,42.0,23.0,850.0,12.0
+McDonald's,Sausage McMuffin with Egg,Breakfast,5.7 oz (161 g),450.0,28.0,30.0,21.0,860.0,2.0
+McDonald's,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",Breakfast,5.3 oz (150 g),460.0,26.0,38.0,19.0,1300.0,3.0
+McDonald's,"Bacon, Egg & Cheese McGriddles",Breakfast,6.1 oz (174 g),460.0,21.0,48.0,19.0,1250.0,15.0
+McDonald's,Cinnamon Melts,Breakfast,4 oz (114 g),460.0,19.0,66.0,6.0,370.0,32.0
+McDonald's,Iced Caramel Mocha (Large),Coffee & Tea,22 fl oz cup,460.0,16.0,65.0,13.0,250.0,59.0
+McDonald's,Sausage Biscuit with Egg Whites (Regular Biscuit),Breakfast,5.9 oz (167 g),460.0,27.0,34.0,18.0,1180.0,3.0
+McDonald's,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",Breakfast,5.9 oz (167 g),470.0,25.0,42.0,20.0,1420.0,4.0
+McDonald's,Chicken McNuggets (10 piece),Chicken & Fish,5.7 oz (162 g),470.0,30.0,30.0,22.0,900.0,0.0
+McDonald's,Southern Style Chicken Biscuit (Large Biscuit),Breakfast,5.5 oz (157 g),470.0,24.0,46.0,17.0,1290.0,4.0
+McDonald's,Bacon Cheddar McChicken,Chicken & Fish,6 oz (171 g),480.0,24.0,43.0,22.0,1260.0,6.0
+McDonald's,Caramel Mocha (Large),Coffee & Tea,20 fl oz cup,480.0,17.0,66.0,16.0,270.0,60.0
+McDonald's,Iced Mocha (Large),Coffee & Tea,22 fl oz cup,480.0,16.0,70.0,14.0,220.0,62.0
+McDonald's,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,10.7 oz (302 g),480.0,19.0,42.0,36.0,1370.0,6.0
+McDonald's,Sausage Biscuit (Large Biscuit),Breakfast,4.6 oz (131 g),480.0,31.0,39.0,11.0,1190.0,3.0
+McDonald's,McRib,Beef & Pork,7.3 oz (208 g),500.0,26.0,44.0,22.0,980.0,11.0
+McDonald's,Mocha (Large),Coffee & Tea,20 fl oz cup,500.0,17.0,72.0,16.0,240.0,63.0
+McDonald's,"Sausage, Egg & Cheese McGriddles with Egg Whites",Breakfast,7.2 oz (205 g),500.0,26.0,46.0,21.0,1320.0,15.0
+McDonald's,Large French Fries,Snacks & Sides,5.9 oz (168 g),510.0,24.0,67.0,6.0,290.0,0.0
+McDonald's,McFlurry with Oreo Cookies (Small),Smoothies & Shakes,10.1 oz (285 g),510.0,17.0,80.0,12.0,280.0,64.0
+McDonald's,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,7.5 oz (213 g),510.0,22.0,55.0,24.0,990.0,10.0
+McDonald's,Premium Grilled Chicken Club Sandwich,Chicken & Fish,8.3 oz (235 g),510.0,20.0,44.0,40.0,1250.0,9.0
+McDonald's,Sausage Biscuit with Egg (Regular Biscuit),Breakfast,5.7 oz (163 g),510.0,33.0,36.0,18.0,1170.0,2.0
+McDonald's,"Bacon, Egg & Cheese Biscuit (Large Biscuit)",Breakfast,5.8 oz (164 g),520.0,30.0,43.0,19.0,1410.0,4.0
+McDonald's,Hotcakes and Sausage,Breakfast,6.8 oz (192 g),520.0,24.0,61.0,15.0,930.0,14.0
+McDonald's,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,11.2 oz (318 g),520.0,20.0,55.0,31.0,1320.0,10.0
+McDonald's,Quarter Pounder with Cheese,Beef & Pork,7.1 oz (202 g),520.0,26.0,41.0,30.0,1100.0,10.0
+McDonald's,Sausage Biscuit with Egg Whites (Large Biscuit),Breakfast,6.4 oz (181 g),520.0,32.0,40.0,18.0,1290.0,3.0
+McDonald's,Big Mac,Beef & Pork,7.4 oz (211 g),530.0,27.0,47.0,24.0,960.0,9.0
+McDonald's,Frappé Chocolate Chip (Small),Coffee & Tea,12 fl oz cup,530.0,23.0,76.0,8.0,135.0,67.0
+McDonald's,Vanilla Shake (Small),Smoothies & Shakes,12 fl oz cup,530.0,15.0,86.0,11.0,160.0,63.0
+McDonald's,Hot Chocolate (Large),Coffee & Tea,20 fl oz cup,540.0,20.0,73.0,17.0,280.0,68.0
+McDonald's,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,10.7 oz (304 g),540.0,23.0,61.0,23.0,1260.0,14.0
+McDonald's,Quarter Pounder Deluxe,Beef & Pork,8.6 oz (244 g),540.0,27.0,45.0,29.0,960.0,9.0
+McDonald's,Steak & Egg Biscuit (Regular Biscuit),Breakfast,7.1 oz (201 g),540.0,32.0,38.0,25.0,1470.0,3.0
+McDonald's,Frappé Caramel (Medium),Coffee & Tea,16 fl oz cup,550.0,23.0,79.0,9.0,160.0,71.0
+McDonald's,Frappé Mocha (Medium),Coffee & Tea,16 fl oz cup,550.0,22.0,80.0,9.0,160.0,71.0
+McDonald's,"Sausage, Egg & Cheese McGriddles",Breakfast,7.1 oz (201 g),550.0,31.0,48.0,20.0,1320.0,15.0
+McDonald's,Strawberry Shake (Small),Smoothies & Shakes,12 fl oz cup,550.0,16.0,90.0,12.0,160.0,79.0
+McDonald's,Chocolate Shake (Small),Smoothies & Shakes,12 fl oz cup,560.0,16.0,91.0,12.0,240.0,77.0
+McDonald's,"Bacon, Egg & Cheese Bagel with Egg Whites",Breakfast,7.1 oz (201 g),570.0,25.0,55.0,30.0,1480.0,8.0
+McDonald's,Sausage Biscuit with Egg (Large Biscuit),Breakfast,6.2 oz (177 g),570.0,37.0,42.0,18.0,1280.0,3.0
+McDonald's,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,9.5 oz (270 g),590.0,25.0,51.0,40.0,1560.0,14.0
+McDonald's,Quarter Pounder with Bacon & Cheese,Beef & Pork,8 oz (227 g),600.0,29.0,48.0,37.0,1440.0,12.0
+McDonald's,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,8.1 oz (230 g),610.0,28.0,57.0,32.0,1400.0,11.0
+McDonald's,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,10.9 oz (310 g),610.0,31.0,56.0,27.0,1340.0,8.0
+McDonald's,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,8.3 oz (235 g),610.0,31.0,46.0,37.0,1180.0,10.0
+McDonald's,"Bacon, Egg & Cheese Bagel",Breakfast,6.9 oz (197 g),620.0,31.0,57.0,30.0,1480.0,7.0
+McDonald's,Frappé Chocolate Chip (Medium),Coffee & Tea,16 fl oz cup,630.0,26.0,91.0,9.0,160.0,81.0
+McDonald's,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,11.1 oz (316 g),630.0,32.0,56.0,32.0,1540.0,7.0
+McDonald's,Big Breakfast with Egg Whites (Regular Biscuit),Breakfast,9.6 oz (272 g),640.0,37.0,50.0,26.0,1590.0,3.0
+McDonald's,McFlurry with M&M’s Candies (Small),Smoothies & Shakes,10.9 oz (310 g),650.0,23.0,96.0,13.0,180.0,89.0
+McDonald's,Shamrock Shake (Medium),Smoothies & Shakes,16 fl oz cup,660.0,19.0,109.0,14.0,210.0,93.0
+McDonald's,Vanilla Shake (Medium),Smoothies & Shakes,16 fl oz cup,660.0,19.0,109.0,14.0,200.0,81.0
+McDonald's,Frappé Caramel (Large),Coffee & Tea,22 fl oz cup,670.0,27.0,96.0,11.0,190.0,88.0
+McDonald's,Frappé Mocha (Large),Coffee & Tea,22 fl oz cup,670.0,26.0,98.0,11.0,190.0,88.0
+McDonald's,Premium Crispy Chicken Club Sandwich,Chicken & Fish,8.8 oz (249 g),670.0,33.0,58.0,36.0,1410.0,11.0
+McDonald's,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,11.1 oz (314 g),670.0,33.0,68.0,27.0,1480.0,12.0
+McDonald's,"Steak, Egg & Cheese Bagel",Breakfast,8.5 oz (241 g),670.0,35.0,56.0,33.0,1510.0,7.0
+McDonald's,Big Breakfast with Egg Whites (Large Biscuit),Breakfast,10.1 oz (286 g),690.0,41.0,55.0,26.0,1700.0,4.0
+McDonald's,McFlurry with Oreo Cookies (Medium),Smoothies & Shakes,13.4 oz (381 g),690.0,23.0,106.0,15.0,380.0,85.0
+McDonald's,Strawberry Shake (Medium),Smoothies & Shakes,16 fl oz cup,690.0,20.0,114.0,15.0,210.0,100.0
+McDonald's,Chocolate Shake (Medium),Smoothies & Shakes,16 fl oz cup,700.0,20.0,114.0,15.0,300.0,97.0
+McDonald's,Bacon Clubhouse Burger,Beef & Pork,9.5 oz (270 g),720.0,40.0,51.0,39.0,1470.0,14.0
+McDonald's,Big Breakfast (Regular Biscuit),Breakfast,9.5 oz (269 g),740.0,48.0,51.0,28.0,1560.0,3.0
+McDonald's,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,10 oz (284 g),750.0,38.0,65.0,36.0,1720.0,16.0
+McDonald's,Double Quarter Pounder with Cheese,Beef & Pork,10 oz (283 g),750.0,43.0,42.0,48.0,1280.0,10.0
+McDonald's,Frappé Chocolate Chip (Large),Coffee & Tea,22 fl oz cup,760.0,31.0,111.0,12.0,200.0,99.0
+McDonald's,Big Breakfast (Large Biscuit),Breakfast,10 oz (283 g),800.0,52.0,56.0,28.0,1680.0,3.0
+McDonald's,McFlurry with Reese's Peanut Butter Cups (Medium),Smoothies & Shakes,14.2 oz (403 g),810.0,32.0,114.0,21.0,400.0,103.0
+McDonald's,Shamrock Shake (Large),Smoothies & Shakes,22 fl oz cup,820.0,23.0,135.0,18.0,260.0,115.0
+McDonald's,Vanilla Shake (Large),Smoothies & Shakes,22 fl oz cup,820.0,23.0,135.0,18.0,260.0,101.0
+McDonald's,Chocolate Shake (Large),Smoothies & Shakes,22 fl oz cup,850.0,23.0,141.0,19.0,380.0,120.0
+McDonald's,Strawberry Shake (Large),Smoothies & Shakes,22 fl oz cup,850.0,24.0,140.0,18.0,260.0,123.0
+McDonald's,McFlurry with M&M’s Candies (Medium),Smoothies & Shakes,16.2 oz (460 g),930.0,33.0,139.0,20.0,260.0,128.0
+McDonald's,Chicken McNuggets (20 piece),Chicken & Fish,11.4 oz (323 g),940.0,59.0,59.0,44.0,1800.0,0.0
+McDonald's,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),Breakfast,14.9 oz (423 g),990.0,46.0,110.0,35.0,2170.0,17.0
+McDonald's,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),Breakfast,15.4 oz (437 g),1050.0,50.0,115.0,35.0,2290.0,18.0
+McDonald's,Big Breakfast with Hotcakes (Regular Biscuit),Breakfast,14.8 oz (420 g),1090.0,56.0,111.0,36.0,2150.0,17.0
+McDonald's,Big Breakfast with Hotcakes (Large Biscuit),Breakfast,15.3 oz (434 g),1150.0,60.0,116.0,36.0,2260.0,17.0
+McDonald's,Chicken McNuggets (40 piece),Chicken & Fish,22.8 oz (646 g),1880.0,118.0,118.0,87.0,3600.0,1.0
+Starbucks,Tazo® Tea,Tazo® Tea Drinks,Short,0.0,0.0,0.0,0.0,0.0,0.0
+Starbucks,Tazo® Tea,Tazo® Tea Drinks,Tall,0.0,0.0,0.0,0.0,0.0,0.0
+Starbucks,Tazo® Tea,Tazo® Tea Drinks,Grande,0.0,0.0,0.0,0.0,0.0,0.0
+Starbucks,Tazo® Tea,Tazo® Tea Drinks,Venti,0.0,0.0,0.0,0.0,0.0,0.0
+Starbucks,Brewed Coffee,Coffee,Short,3.0,0.1,5.0,0.3,0.0,0.0
+Starbucks,Brewed Coffee,Coffee,Tall,4.0,0.1,10.0,0.5,0.0,0.0
+Starbucks,Brewed Coffee,Coffee,Grande,5.0,0.1,10.0,1.0,0.0,0.0
+Starbucks,Brewed Coffee,Coffee,Venti,5.0,0.1,10.0,1.0,0.0,0.0
+Starbucks,Caffè Americano,Classic Espresso Drinks,Short,5.0,0.0,5.0,0.4,0.0,0.0
+Starbucks,Espresso,Classic Espresso Drinks,Solo,5.0,0.0,0.0,0.4,0.0,0.0
+Starbucks,Caffè Americano,Classic Espresso Drinks,Tall,10.0,0.0,10.0,1.0,0.0,0.0
+Starbucks,Espresso,Classic Espresso Drinks,Doppio,10.0,0.0,1.0,1.0,0.0,0.0
+Starbucks,Caffè Americano,Classic Espresso Drinks,Grande,15.0,0.0,15.0,1.0,0.0,0.0
+Starbucks,Caffè Americano,Classic Espresso Drinks,Venti,25.0,0.0,15.0,1.0,0.0,0.0
+Starbucks,Cappuccino,Classic Espresso Drinks,Short Nonfat Milk,50.0,0.1,60.0,5.0,5.0,7.0
+Starbucks,Cappuccino,Classic Espresso Drinks,Soymilk,50.0,1.5,40.0,3.0,0.0,3.0
+Starbucks,Cappuccino,Classic Espresso Drinks,Tall Nonfat Milk,60.0,0.1,70.0,6.0,5.0,8.0
+Starbucks,Iced Brewed Coffee (With Classic Syrup),Shaken Iced Beverages,Tall,60.0,0.0,4.0,0.2,0.0,15.0
+Starbucks,Shaken Iced Tazo® Tea (With Classic Syrup),Shaken Iced Beverages,Tall,60.0,0.0,0.0,0.0,0.0,15.0
+Starbucks,Skinny Latte (Any Flavour),Classic Espresso Drinks,Short Nonfat Milk,60.0,0.1,80.0,6.0,5.0,8.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,Short Nonfat Milk,70.0,0.1,75.0,6.0,5.0,9.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,Soymilk,70.0,2.5,65.0,5.0,0.0,4.0
+Starbucks,Cappuccino,Classic Espresso Drinks,Soymilk,70.0,3.0,65.0,5.0,0.0,4.0
+Starbucks,Cappuccino,Classic Espresso Drinks,2% Milk,80.0,3.0,70.0,5.0,10.0,7.0
+Starbucks,Cappuccino,Classic Espresso Drinks,Grande Nonfat Milk,80.0,0.2,90.0,8.0,5.0,10.0
+Starbucks,Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Tall Nonfat Milk,80.0,0.1,25.0,2.0,0.0,18.0
+Starbucks,Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Soymilk,80.0,1.0,20.0,2.0,0.0,17.0
+Starbucks,Shaken Iced Tazo® Tea (With Classic Syrup),Shaken Iced Beverages,Grande,80.0,0.0,0.0,0.0,0.0,21.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Short Nonfat Milk,80.0,0.1,45.0,4.0,0.0,16.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Soymilk,80.0,1.5,40.0,3.0,0.0,13.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Short Nonfat Milk,80.0,0.1,45.0,4.0,0.0,16.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Soymilk,80.0,1.5,40.0,3.0,0.0,13.0
+Starbucks,Cappuccino,Classic Espresso Drinks,2% Milk,90.0,3.5,80.0,6.0,15.0,8.0
+Starbucks,Coffee,Frappuccino® Light Blended Coffee,Tall Nonfat Milk,90.0,0.1,160.0,3.0,0.0,19.0
+Starbucks,Iced Brewed Coffee (With Classic Syrup),Shaken Iced Beverages,Grande,90.0,0.1,5.0,0.3,0.0,21.0
+Starbucks,Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,2% Milk,90.0,1.0,25.0,2.0,5.0,18.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,2% Milk,90.0,2.0,50.0,3.0,10.0,15.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,2% Milk,90.0,2.0,50.0,3.0,10.0,15.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,2% Milk,100.0,3.5,85.0,6.0,15.0,9.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,Tall Nonfat Milk,100.0,0.2,120.0,10.0,5.0,14.0
+Starbucks,Cappuccino,Classic Espresso Drinks,Soymilk,100.0,3.5,80.0,7.0,0.0,5.0
+Starbucks,Caramel,Frappuccino® Light Blended Coffee,Tall Nonfat Milk,100.0,0.1,140.0,3.0,0.0,23.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,Short Nonfat Milk,100.0,1.0,70.0,6.0,5.0,15.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,Soymilk,100.0,3.0,60.0,4.0,0.0,11.0
+Starbucks,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Shaken Iced Beverages,Tall,100.0,0.0,0.0,0.1,0.0,24.0
+Starbucks,Skinny Latte (Any Flavour),Classic Espresso Drinks,Tall Nonfat Milk,100.0,0.2,125.0,9.0,5.0,13.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,Short Nonfat Milk,100.0,0.1,50.0,4.0,0.0,21.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Short Nonfat Milk,100.0,0.1,70.0,6.0,5.0,18.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,Soymilk,110.0,4.5,105.0,8.0,0.0,6.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Short Nonfat Milk,110.0,1.5,60.0,7.0,5.0,17.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Soymilk,110.0,3.5,55.0,6.0,0.0,13.0
+Starbucks,Cappuccino,Classic Espresso Drinks,Venti Nonfat Milk,110.0,0.2,120.0,10.0,5.0,14.0
+Starbucks,Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Grande Nonfat Milk,110.0,0.1,30.0,2.0,0.0,24.0
+Starbucks,Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Soymilk,110.0,1.0,30.0,2.0,0.0,22.0
+Starbucks,Mocha,Frappuccino® Light Blended Coffee,Tall Nonfat Milk,110.0,0.5,150.0,3.0,0.0,23.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,Soymilk,110.0,1.5,45.0,3.0,0.0,18.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Soymilk,110.0,2.5,60.0,5.0,0.0,13.0
+Starbucks,Cappuccino,Classic Espresso Drinks,2% Milk,120.0,4.0,100.0,8.0,15.0,10.0
+Starbucks,Cappuccino,Classic Espresso Drinks,Soymilk,120.0,4.5,110.0,9.0,0.0,7.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,2% Milk,120.0,4.0,80.0,5.0,15.0,15.0
+Starbucks,Coffee,Frappuccino® Light Blended Coffee,Grande Nonfat Milk,120.0,0.1,210.0,3.0,0.0,26.0
+Starbucks,Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,2% Milk,120.0,1.5,35.0,2.0,5.0,24.0
+Starbucks,Shaken Iced Tazo® Tea (With Classic Syrup),Shaken Iced Beverages,Venti,120.0,0.0,0.0,0.0,0.0,31.0
+Starbucks,Skinny Latte (Any Flavour),Classic Espresso Drinks,Grande Nonfat Milk,120.0,0.3,160.0,12.0,5.0,16.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,2% Milk,120.0,2.0,55.0,4.0,10.0,21.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Tall Nonfat Milk,120.0,0.1,65.0,5.0,5.0,23.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Tall Nonfat Milk,120.0,0.1,65.0,5.0,5.0,23.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,Grande Nonfat Milk,130.0,0.3,150.0,13.0,5.0,18.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,2% Milk,130.0,4.0,70.0,6.0,10.0,17.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Short Nonfat Milk,130.0,1.5,70.0,7.0,5.0,23.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Soymilk,130.0,3.5,60.0,6.0,0.0,18.0
+Starbucks,Iced Brewed Coffee (With Classic Syrup),Shaken Iced Beverages,Venti,130.0,0.1,5.0,0.4,0.0,31.0
+Starbucks,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Shaken Iced Beverages,Grande,130.0,0.0,0.0,0.1,0.0,33.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Soymilk,130.0,2.5,60.0,4.0,0.0,19.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Soymilk,130.0,2.5,60.0,4.0,0.0,19.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,Short Nonfat Milk,130.0,0.2,85.0,7.0,5.0,25.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,2% Milk,130.0,3.5,80.0,6.0,15.0,17.0
+Starbucks,Caramel Apple Spice (Without Whipped Cream),Signature Espresso Drinks,Short,140.0,0.0,10.0,0.0,0.0,33.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,Tall Nonfat Milk,140.0,1.0,105.0,8.0,5.0,24.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,2% Milk,140.0,3.0,75.0,5.0,15.0,23.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,2% Milk,140.0,3.0,75.0,5.0,15.0,23.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,Soymilk,140.0,3.0,70.0,6.0,0.0,20.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,2% Milk,150.0,6.0,135.0,10.0,25.0,14.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,Soymilk,150.0,5.0,130.0,10.0,0.0,8.0
+Starbucks,Cappuccino,Classic Espresso Drinks,2% Milk,150.0,6.0,135.0,10.0,25.0,14.0
+Starbucks,Caramel,Frappuccino® Light Blended Coffee,Grande Nonfat Milk,150.0,0.1,200.0,3.0,0.0,32.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,Soymilk,150.0,4.5,90.0,7.0,0.0,17.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,2% Milk,150.0,4.5,80.0,7.0,15.0,22.0
+Starbucks,Java Chip,Frappuccino® Light Blended Coffee,Tall Nonfat Milk,150.0,3.0,170.0,4.0,0.0,27.0
+Starbucks,Mocha,Frappuccino® Light Blended Coffee,Grande Nonfat Milk,150.0,1.0,200.0,4.0,0.0,30.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Grande Nonfat Milk,150.0,0.2,85.0,7.0,5.0,31.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Grande Nonfat Milk,150.0,0.2,85.0,7.0,5.0,31.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Tall Nonfat Milk,150.0,0.2,110.0,9.0,5.0,27.0
+Starbucks,Coffee,Frappuccino® Blended Coffee,Tall Nonfat Milk,160.0,0.1,160.0,3.0,0.0,36.0
+Starbucks,Coffee,Frappuccino® Blended Coffee,Soymilk,160.0,1.5,150.0,2.0,0.0,34.0
+Starbucks,Coffee,Frappuccino® Light Blended Coffee,Venti Nonfat Milk,160.0,0.1,270.0,5.0,5.0,33.0
+Starbucks,Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Venti Nonfat Milk,160.0,0.1,50.0,4.0,0.0,36.0
+Starbucks,Skinny Latte (Any Flavour),Classic Espresso Drinks,Venti Nonfat Milk,160.0,0.3,200.0,15.0,10.0,21.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,Tall Nonfat Milk,160.0,0.2,80.0,6.0,5.0,32.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,Soymilk,160.0,2.5,70.0,5.0,0.0,28.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Soymilk,160.0,4.0,95.0,7.0,0.0,20.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,Venti Nonfat Milk,170.0,0.4,190.0,16.0,10.0,23.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Tall Nonfat Milk,170.0,2.0,100.0,10.0,5.0,27.0
+Starbucks,Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,Soymilk,170.0,1.5,45.0,3.0,0.0,33.0
+Starbucks,Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Tall Nonfat Milk,170.0,0.1,140.0,3.0,0.0,38.0
+Starbucks,Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Soymilk,170.0,1.5,135.0,3.0,0.0,35.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Soymilk,170.0,3.5,80.0,6.0,0.0,25.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Soymilk,170.0,3.5,80.0,6.0,0.0,25.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,2% Milk,170.0,4.0,95.0,7.0,15.0,25.0
+Starbucks,Vanilla Bean (Without Whipped Cream),Frappuccino® Blended Crème,Tall Nonfat Milk,170.0,0.1,160.0,4.0,0.0,38.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Soymilk,180.0,5.0,85.0,9.0,0.0,20.0
+Starbucks,Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Tall Nonfat Milk,180.0,0.1,160.0,3.0,0.0,41.0
+Starbucks,Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Soymilk,180.0,1.5,150.0,2.0,0.0,39.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,2% Milk,180.0,5.0,115.0,8.0,20.0,23.0
+Starbucks,Coffee,Frappuccino® Blended Coffee,Whole Milk,180.0,2.5,160.0,3.0,10.0,36.0
+Starbucks,Iced Brewed Coffee (With Milk & Classic Syrup),Shaken Iced Beverages,2% Milk,180.0,2.0,55.0,4.0,10.0,36.0
+Starbucks,Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Tall Nonfat Milk,180.0,0.5,150.0,3.0,0.0,40.0
+Starbucks,Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Soymilk,180.0,2.0,150.0,3.0,0.0,38.0
+Starbucks,Vanilla Bean (Without Whipped Cream),Frappuccino® Blended Crème,Soymilk,180.0,1.5,160.0,3.0,0.0,35.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Short Nonfat Milk,180.0,3.0,120.0,7.0,5.0,29.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Soymilk,180.0,5.0,110.0,6.0,0.0,25.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,2% Milk,190.0,7.0,170.0,12.0,30.0,17.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,Soymilk,190.0,7.0,170.0,13.0,0.0,11.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,Grande Nonfat Milk,190.0,1.0,130.0,11.0,10.0,32.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Tall Nonfat Milk,190.0,2.0,110.0,11.0,5.0,32.0
+Starbucks,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Shaken Iced Beverages,Venti,190.0,0.0,0.0,0.1,0.0,49.0
+Starbucks,Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Whole Milk,190.0,3.0,140.0,3.0,10.0,37.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,2% Milk,190.0,3.5,90.0,6.0,15.0,32.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,2% Milk,190.0,4.0,95.0,7.0,15.0,30.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Venti Nonfat Milk,190.0,0.2,110.0,9.0,5.0,39.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,2% Milk,190.0,4.0,95.0,7.0,15.0,30.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Venti Nonfat Milk,190.0,0.2,110.0,9.0,5.0,39.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,2% Milk,200.0,6.0,115.0,10.0,20.0,26.0
+Starbucks,Caramel,Frappuccino® Light Blended Coffee,Venti Nonfat Milk,200.0,0.1,270.0,5.0,5.0,43.0
+Starbucks,Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Whole Milk,200.0,2.5,160.0,3.0,10.0,41.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,Soymilk,200.0,5.0,115.0,9.0,5.0,24.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Soymilk,200.0,6.0,95.0,9.0,0.0,25.0
+Starbucks,Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Whole Milk,200.0,3.0,160.0,3.0,10.0,40.0
+Starbucks,Vanilla Bean (Without Whipped Cream),Frappuccino® Blended Crème,Whole Milk,200.0,3.5,160.0,3.0,10.0,38.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,2% Milk,200.0,5.0,125.0,9.0,20.0,27.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Grande Nonfat Milk,200.0,0.3,140.0,12.0,5.0,35.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,2% Milk,200.0,6.0,125.0,7.0,15.0,29.0
+Starbucks,Caramel Apple Spice (Without Whipped Cream),Signature Espresso Drinks,Tall,210.0,0.0,15.0,0.0,0.0,49.0
+Starbucks,Mocha,Frappuccino® Light Blended Coffee,Venti Nonfat Milk,210.0,1.0,280.0,6.0,5.0,42.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,Grande Nonfat Milk,210.0,0.2,105.0,8.0,5.0,43.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,Soymilk,210.0,4.0,100.0,7.0,0.0,32.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,Soymilk,210.0,4.0,100.0,7.0,0.0,32.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,Tall Nonfat Milk,210.0,0.4,125.0,11.0,5.0,41.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Soymilk,210.0,5.0,120.0,9.0,0.0,26.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Grande Nonfat Milk,220.0,2.5,125.0,13.0,5.0,34.0
+Starbucks,Coffee,Frappuccino® Blended Coffee,Grande Nonfat Milk,220.0,0.1,210.0,4.0,0.0,50.0
+Starbucks,Coffee,Frappuccino® Blended Coffee,Soymilk,220.0,1.5,210.0,3.0,0.0,47.0
+Starbucks,Java Chip,Frappuccino® Light Blended Coffee,Grande Nonfat Milk,220.0,4.0,240.0,5.0,0.0,39.0
+Starbucks,Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Tall Nonfat Milk,220.0,3.0,170.0,4.0,0.0,44.0
+Starbucks,Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Soymilk,220.0,4.0,170.0,3.0,0.0,42.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,Soymilk,220.0,3.5,90.0,6.0,0.0,37.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Soymilk,230.0,7.0,105.0,11.0,0.0,26.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,2% Milk,230.0,7.0,120.0,10.0,20.0,32.0
+Starbucks,Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Grande Nonfat Milk,230.0,0.2,190.0,4.0,0.0,52.0
+Starbucks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tazo® Tea Drinks,2% Milk,230.0,5.0,125.0,9.0,20.0,38.0
+Starbucks,Tazo® Full-Leaf Tea Latte,Tazo® Tea Drinks,2% Milk,230.0,5.0,125.0,9.0,20.0,38.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,Soymilk,230.0,4.5,110.0,9.0,0.0,33.0
+Starbucks,Caffè Latte,Classic Espresso Drinks,2% Milk,240.0,9.0,220.0,16.0,35.0,22.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,2% Milk,240.0,7.0,150.0,10.0,25.0,32.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,Venti Nonfat Milk,240.0,1.0,170.0,13.0,10.0,41.0
+Starbucks,Coffee,Frappuccino® Blended Coffee,Whole Milk,240.0,3.0,220.0,3.0,10.0,50.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Grande Nonfat Milk,240.0,2.5,140.0,14.0,5.0,41.0
+Starbucks,Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Whole Milk,240.0,5.0,170.0,4.0,10.0,44.0
+Starbucks,Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Soymilk,240.0,2.0,180.0,3.0,0.0,49.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,2% Milk,240.0,4.5,115.0,8.0,20.0,42.0
+Starbucks,Vanilla Bean (Without Whipped Cream),Frappuccino® Blended Crème,Grande Nonfat Milk,240.0,0.1,230.0,5.0,5.0,55.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,Soymilk,250.0,7.0,140.0,11.0,5.0,31.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Soymilk,250.0,7.0,125.0,12.0,0.0,32.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,2% Milk,250.0,6.0,150.0,12.0,25.0,35.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Venti Nonfat Milk,250.0,0.3,180.0,15.0,10.0,45.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,2% Milk,260.0,8.0,140.0,13.0,25.0,34.0
+Starbucks,Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Soymilk,260.0,1.5,220.0,3.0,0.0,56.0
+Starbucks,Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Grande Nonfat Milk,260.0,1.0,220.0,4.0,0.0,58.0
+Starbucks,Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Soymilk,260.0,2.5,220.0,4.0,0.0,55.0
+Starbucks,Orange Mango Banana Smoothie,Smoothies,Grande Nonfat Milk,260.0,1.0,120.0,16.0,5.0,37.0
+Starbucks,Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Whole Milk,260.0,4.0,190.0,4.0,10.0,52.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,Venti Nonfat Milk,260.0,0.3,135.0,10.0,5.0,54.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,2% Milk,260.0,6.0,140.0,10.0,25.0,40.0
+Starbucks,Orange Mango Banana Smoothie,Smoothies,2% Milk,270.0,1.5,125.0,16.0,5.0,37.0
+Starbucks,Orange Mango Banana Smoothie,Smoothies,Soymilk,270.0,1.5,120.0,15.0,5.0,36.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,Soymilk,270.0,7.0,160.0,12.0,0.0,33.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Tall Nonfat Milk,270.0,4.5,190.0,12.0,5.0,45.0
+Starbucks,Banana Chocolate Smoothie,Smoothies,Grande Nonfat Milk,280.0,2.5,150.0,20.0,5.0,34.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Venti Nonfat Milk,280.0,3.0,160.0,17.0,10.0,44.0
+Starbucks,Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Grande Nonfat Milk,280.0,0.1,220.0,4.0,0.0,59.0
+Starbucks,Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Whole Milk,280.0,3.5,220.0,3.0,10.0,59.0
+Starbucks,Caramel Apple Spice (Without Whipped Cream),Signature Espresso Drinks,Grande,280.0,0.0,20.0,0.0,0.0,65.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,Soymilk,280.0,4.5,115.0,8.0,0.0,46.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Soymilk,280.0,8.0,170.0,10.0,0.0,39.0
+Starbucks,Banana Chocolate Smoothie,Smoothies,Soymilk,290.0,4.5,150.0,19.0,5.0,31.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,Soymilk,290.0,9.0,140.0,14.0,0.0,33.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,2% Milk,290.0,9.0,160.0,14.0,25.0,41.0
+Starbucks,Java Chip,Frappuccino® Light Blended Coffee,Venti Nonfat Milk,290.0,5.0,320.0,7.0,5.0,52.0
+Starbucks,Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Whole Milk,290.0,4.0,220.0,4.0,10.0,58.0
+Starbucks,Strawberry Banana Smoothie,Smoothies,Grande Nonfat Milk,290.0,1.0,125.0,16.0,5.0,41.0
+Starbucks,Strawberry Banana Smoothie,Smoothies,2% Milk,290.0,2.0,125.0,16.0,5.0,41.0
+Starbucks,Strawberry Banana Smoothie,Smoothies,Soymilk,290.0,2.0,120.0,16.0,5.0,40.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,Grande Nonfat Milk,290.0,0.5,160.0,14.0,10.0,56.0
+Starbucks,Banana Chocolate Smoothie,Smoothies,2% Milk,300.0,5.0,160.0,20.0,15.0,34.0
+Starbucks,Caramel Macchiato,Signature Espresso Drinks,2% Milk,300.0,8.0,180.0,13.0,35.0,40.0
+Starbucks,Coffee,Frappuccino® Blended Coffee,Venti Nonfat Milk,310.0,0.1,300.0,6.0,5.0,69.0
+Starbucks,Coffee,Frappuccino® Blended Coffee,Soymilk,310.0,2.5,300.0,5.0,0.0,66.0
+Starbucks,Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Grande Nonfat Milk,310.0,4.0,250.0,5.0,0.0,62.0
+Starbucks,Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Soymilk,310.0,6.0,240.0,4.0,0.0,60.0
+Starbucks,Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Venti Nonfat Milk,310.0,0.2,260.0,6.0,5.0,69.0
+Starbucks,Tazo® Chai Tea Latte,Tazo® Tea Drinks,2% Milk,310.0,6.0,150.0,10.0,25.0,53.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,Soymilk,310.0,6.0,140.0,11.0,0.0,46.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,2% Milk,310.0,9.0,200.0,11.0,20.0,44.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Venti Nonfat Milk,320.0,3.0,180.0,18.0,10.0,55.0
+Starbucks,Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Soymilk,320.0,32.0,250.0,5.0,0.0,64.0
+Starbucks,Vanilla Latte (Or Other Flavoured Latte),Classic Espresso Drinks,2% Milk,320.0,9.0,200.0,15.0,35.0,44.0
+Starbucks,Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Venti Nonfat Milk,330.0,0.1,290.0,5.0,5.0,77.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,Soymilk,330.0,9.0,160.0,15.0,0.0,44.0
+Starbucks,Caffè Mocha (Without Whipped Cream),Classic Espresso Drinks,2% Milk,340.0,11.0,180.0,17.0,30.0,43.0
+Starbucks,Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Soymilk,340.0,2.5,290.0,5.0,0.0,73.0
+Starbucks,Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Whole Milk,340.0,7.0,250.0,5.0,10.0,62.0
+Starbucks,Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Venti Nonfat Milk,340.0,1.0,300.0,7.0,5.0,76.0
+Starbucks,Coffee,Frappuccino® Blended Coffee,Whole Milk,350.0,5.0,300.0,5.0,15.0,69.0
+Starbucks,Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Soymilk,350.0,3.0,290.0,6.0,0.0,73.0
+Starbucks,Strawberries & Crème (Without Whipped Cream),Frappuccino® Blended Crème,Whole Milk,350.0,6.0,260.0,6.0,15.0,68.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,2% Milk,350.0,8.0,180.0,14.0,30.0,55.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Grande Nonfat Milk,350.0,6.0,240.0,15.0,10.0,58.0
+Starbucks,Caramel Apple Spice (Without Whipped Cream),Signature Espresso Drinks,Venti,360.0,0.0,25.0,0.0,0.0,83.0
+Starbucks,Caramel (Without Whipped Cream),Frappuccino® Blended Coffee,Whole Milk,370.0,5.0,300.0,5.0,15.0,77.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,Venti Nonfat Milk,370.0,0.5,200.0,18.0,10.0,71.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Soymilk,370.0,10.0,220.0,13.0,0.0,51.0
+Starbucks,Hot Chocolate (Without Whipped Cream),Signature Espresso Drinks,2% Milk,380.0,11.0,200.0,17.0,35.0,54.0
+Starbucks,Mocha (Without Whipped Cream),Frappuccino® Blended Coffee,Whole Milk,390.0,6.0,300.0,6.0,15.0,76.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,Soymilk,390.0,8.0,180.0,14.0,0.0,58.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,2% Milk,400.0,11.0,250.0,15.0,25.0,58.0
+Starbucks,Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Venti Nonfat Milk,420.0,5.0,340.0,7.0,5.0,84.0
+Starbucks,Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Soymilk,430.0,8.0,330.0,6.0,0.0,80.0
+Starbucks,Tazo® Green Tea Latte,Tazo® Tea Drinks,2% Milk,450.0,10.0,230.0,17.0,40.0,71.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Venti Nonfat Milk,450.0,7.0,310.0,19.0,10.0,74.0
+Starbucks,Java Chip (Without Whipped Cream),Frappuccino® Blended Coffee,Whole Milk,460.0,10.0,340.0,7.0,15.0,84.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,Soymilk,460.0,13.0,290.0,16.0,5.0,64.0
+Starbucks,White Chocolate Mocha (Without Whipped Cream),Signature Espresso Drinks,2% Milk,510.0,15.0,330.0,19.0,35.0,74.0

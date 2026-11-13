@@ -1,0 +1,11 @@
+restaurant,relationship,pearson_correlation
+Starbucks,calories vs fat_g,0.576
+Starbucks,calories vs carbs_g,0.795
+Starbucks,calories vs protein_g,0.578
+Starbucks,calories vs sodium_mg,0.388
+Starbucks,calories vs sugars_g,0.91
+McDonald's,calories vs fat_g,0.904
+McDonald's,calories vs carbs_g,0.782
+McDonald's,calories vs protein_g,0.788
+McDonald's,calories vs sodium_mg,0.712
+McDonald's,calories vs sugars_g,0.26

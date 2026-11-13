@@ -1,0 +1,19 @@
+restaurant,category,items,avg_calories,avg_fat_g,avg_sugars_g
+McDonald's,Coffee & Tea,95,283.89,8.02,39.61
+McDonald's,Breakfast,42,526.67,27.69,8.26
+McDonald's,Smoothies & Shakes,28,531.43,14.13,77.89
+McDonald's,Chicken & Fish,27,552.96,26.96,7.33
+McDonald's,Beverages,27,113.7,0.09,27.85
+McDonald's,Beef & Pork,15,494.0,24.87,8.8
+McDonald's,Snacks & Sides,13,245.77,10.54,4.08
+McDonald's,Desserts,7,222.14,7.36,26.14
+McDonald's,Salads,6,270.0,11.75,6.83
+Starbucks,Classic Espresso Drinks,58,140.17,3.13,16.97
+Starbucks,Tazo® Tea Drinks,52,177.31,2.54,30.31
+Starbucks,Signature Espresso Drinks,40,250.0,5.28,38.6
+Starbucks,Frappuccino® Blended Coffee,36,276.94,3.0,57.08
+Starbucks,Shaken Iced Beverages,18,114.44,0.47,26.0
+Starbucks,Frappuccino® Blended Crème,13,233.08,4.17,48.46
+Starbucks,Frappuccino® Light Blended Coffee,12,162.5,1.26,32.42
+Starbucks,Smoothies,9,282.22,2.33,36.78
+Starbucks,Coffee,4,4.25,0.1,0.0

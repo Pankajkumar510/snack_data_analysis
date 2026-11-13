@@ -1,0 +1,13 @@
+restaurant,metric,count,mean,median,stddev,min,max
+Starbucks,calories,242,193.87,180.0,102.86,0.0,510.0
+Starbucks,fat_g,242,3.02,2.5,3.49,0.0,32.0
+Starbucks,carbs_g,242,128.88,125.0,82.3,0.0,340.0
+Starbucks,protein_g,242,6.98,6.0,4.87,0.0,20.0
+Starbucks,sodium_mg,242,6.36,5.0,8.63,0.0,40.0
+Starbucks,sugars_g,242,32.96,32.0,19.73,0.0,84.0
+McDonald's,calories,260,368.27,340.0,240.27,0.0,1880.0
+McDonald's,fat_g,260,14.17,11.0,14.21,0.0,118.0
+McDonald's,carbs_g,260,47.35,44.0,28.25,0.0,141.0
+McDonald's,protein_g,260,13.34,12.0,11.43,0.0,87.0
+McDonald's,sodium_mg,260,495.75,190.0,577.03,0.0,3600.0
+McDonald's,sugars_g,260,29.42,17.0,28.68,0.0,128.0
